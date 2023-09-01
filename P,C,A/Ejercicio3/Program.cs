@@ -56,7 +56,7 @@ public class Ejercicio4
         Console.WriteLine($"El perimetro del triangulo es: {perimetroTriangulo}");
 
         Console.WriteLine($"El area del circulo es: {areaCirculo}");
-        Console.WriteLine($"El perimetro del circulo es: {perimetroCirculo}");
+        Console.WriteLine($"El  perimetro  del  circulo  es: {perimetroCirculo}");
 
     }
 }
