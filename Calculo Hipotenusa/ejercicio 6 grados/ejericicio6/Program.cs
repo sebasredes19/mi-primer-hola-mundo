@@ -14,7 +14,7 @@ public class ejercicio6
         double fahrenheit = Convert.ToDouble(Console.ReadLine());
         double celsius = (fahrenheit - 32) * 5 / 9;
 
-        Console.WriteLine($"La temperatura en grados Celsius es: {celsius}");
+        Console.WriteLine($"La temperatura en grados Celsius es: {celsius:F2}");
     }
 
 
